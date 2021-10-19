@@ -10,5 +10,5 @@
 
 ![XoMiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xomiya-wpc&theme=synthwave&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xomiya-wpc&" alt="xomiya-wpc" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xomiya-wpc&layout=compact)](https://github.com/xomiya-wpc/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XoMiya-WPC&layout=compact)
 
