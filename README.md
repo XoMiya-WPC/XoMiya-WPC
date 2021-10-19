@@ -8,15 +8,7 @@
   <h3 align="left"<<u>Languages and Things that I use:</u></h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href= "https://visualstudio.microsoft.com/"target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="visual studio" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&theme=synthwavet&show_icons=true" alt="xomiya-wpc" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xomiya-wpc&show_icons=true&locale=en" alt="xomiya-wpc" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&theme=synthwave&show_icons=true&locale=en" alt="xomiya-wpc" /></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xomiya-wpc&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xomiya-wpc&repo=anuraghazra.github.io&theme=buefy" />
-</a>
- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="XoMiya-WPC's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xomiya-wpc&layout=compact&theme=synthwave&hide_border=true" /></a>
 
 
