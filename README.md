@@ -10,7 +10,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xomiya-wpc&show_icons=true&locale=en" alt="xomiya-wpc" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xomiya-wpc&" alt="xomiya-wpc" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&theme=synthwave&show_icons=true" alt="xomiya-wpc" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xomiya-wpc&" alt="xomiya-wpc" /></p><p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&theme=synthwave&show_icons=true" alt="xomiya-wpc" /></p>
 
 
 
