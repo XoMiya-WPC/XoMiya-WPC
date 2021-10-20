@@ -10,6 +10,6 @@
 
 <h3 align="left"><My Statistics in case you care:></h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="XoMiya-WPC's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xomiya-wpc&layout=compact&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/xomiya-wpc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xomiya-wpc&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="XoMiya-WPC's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xomiya-wpc&layout=compact&theme=synthwave&hide_border=true" /></a>
 
 
